@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pickman.hila@gmail.com
+	name = Hila Pickman
